@@ -1,0 +1,10 @@
+customer_id,name,address,city,state,zip_code,order_number,order_date,product_id,product_name,quantity_ordered,unit_price
+1001,Bib Fortuna,6829 2nd Street,New York,NY,10177,20021,2019-01-01,309,Chisel,6,4.99
+1002,Unkar Plutt,5295 4th Street South,Quinton,AL,35130,20022,2019-01-02,307,Sandpaper,7,3
+1003,Unkar Plutt,5295 4th Street South,Quinton,AL,35130,20022,2019-01-02,311,Hammer,8,8.27
+1003,Unkar Plutt,5295 4th Street South,Quinton,AL,35130,20022,2019-01-02,327,Ladder,5,80
+1003,Unkar Plutt,5295 4th Street South,Quinton,AL,35130,20022,2019-01-02,306,Clamp,5,2.99
+1004,Dodonna,3639 Briarwood Court,Tarzan,TX,79783,20023,2019-01-02,319,Paint,7,19.99
+1004,Dodonna,3639 Briarwood Court,Tarzan,TX,79783,20023,2019-01-02,322,Monkeywrench,8,29.95
+1004,Dodonna,3639 Briarwood Court,Tarzan,TX,79783,20023,2019-01-02,306,Clamp,5,2.99
+1004,Dodonna,3639 Briarwood Court,Tarzan,TX,79783,20023,2019-01-02,317,Level,5,16.99
